@@ -1,6 +1,6 @@
-# Minimum busybox image for Erlang/Elixir apps
+# A busybox image for Erlang/Elixir apps
 
-This Dockerfile adds the following dependencies:
+The image is 5.404 MB large and includes the following dependencies:
 
 - libgcc
 - libc
